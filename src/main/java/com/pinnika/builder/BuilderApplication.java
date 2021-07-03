@@ -22,6 +22,7 @@ public class BuilderApplication {
 		Student student1 = Student.builder().
 										firstName("Henry").lastName("Zhang").build();
 		System.out.println(student1);
+		//added
 	}
 
 }
